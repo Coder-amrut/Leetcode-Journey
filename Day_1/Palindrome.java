@@ -17,4 +17,4 @@ class Palindrome {
         boolean result = isPalindrome(121);
         System.out.println(result);
     }
-};
+}
