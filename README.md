@@ -65,7 +65,10 @@ Daily DSA practice &amp; leetcode journey
 Leetcode-Journey/
 │
 ├── Day_1/
+│    ├── Longest_Common_Prefix.java
 │    ├── palindrome.java
 │    ├── roman_to_integer.java
+│    ├── Valid_Pranthesis.java
+
 ```
 =======
