@@ -69,6 +69,10 @@ Leetcode-Journey/
 │    ├── palindrome.java
 │    ├── roman_to_integer.java
 │    ├── Valid_Pranthesis.java
+├── Day_2/
+│    ├── Remove_Duplicate_element.java
+├── Day_3
+│    ├── Remove_perticulaer_element.java
 
 ```
 =======
