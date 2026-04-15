@@ -73,6 +73,7 @@ Leetcode-Journey/
 │    ├── Remove_Duplicate_element.java
 ├── Day_3
 │    ├── Remove_perticulaer_element.java
+│    ├── searchInsertPosition.java
 
 ```
 =======
