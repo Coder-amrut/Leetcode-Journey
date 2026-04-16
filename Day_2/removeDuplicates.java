@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 class removeDuplicates {
     public int removeDuplicates(int[] nums) {
@@ -11,3 +12,18 @@ class removeDuplicates {
       return i+1;
     }
 }
+=======
+
+class removeDuplicates {
+    public int removeDuplicates(int[] nums) {
+      if(nums.length == 0) return 0;
+      int i = 0;
+      for(int j=0; j<nums.length; j++){
+        if(nums[j] != nums[i])
+            i++;
+        nums[i] = nums[j];    
+      }
+      return i+1;
+    }
+}
+>>>>>>> af5d60a (Day 4 created)
