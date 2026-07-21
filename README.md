@@ -88,4 +88,9 @@ Leetcode-Journey/
 |  |
 | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+## Array
+|  |
+| ------- |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 <!---LeetCode Topics End-->
