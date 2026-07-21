@@ -1,11 +1,10 @@
 class Solution {
     public boolean checkIfPangram(String sentence) {
-        HashSet<Character> set = new HashSet<>();
-
-        for (char ch : sentence.toCharArray()) {
-            set.add(ch);
+        for (char c = 'a'; c <= 'z'; c++) {
+            if (sentence.indexOf(c) == -1) {
+                return false;
+            }
         }
-
-        return set.size() == 26;
+        return true;
     }
 }
