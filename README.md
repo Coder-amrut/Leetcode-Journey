@@ -92,5 +92,10 @@ Leetcode-Journey/
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
