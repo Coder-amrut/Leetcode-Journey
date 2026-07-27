@@ -95,6 +95,7 @@ Leetcode-Journey/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0066-plus-one) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
@@ -105,4 +106,8 @@ Leetcode-Journey/
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
