@@ -83,6 +83,7 @@ Leetcode-Journey/
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0001-two-sum) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -92,6 +93,7 @@ Leetcode-Journey/
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0035-search-insert-position) |
