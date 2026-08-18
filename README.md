@@ -84,6 +84,7 @@ Leetcode-Journey/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0169-majority-element) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -100,6 +101,7 @@ Leetcode-Journey/
 | [0066-plus-one](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0169-majority-element) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
@@ -119,8 +121,21 @@ Leetcode-Journey/
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
