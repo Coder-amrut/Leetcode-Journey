@@ -121,6 +121,7 @@ Leetcode-Journey/
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0066-plus-one) |
+| [0371-sum-of-two-integers](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0371-sum-of-two-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -143,4 +144,8 @@ Leetcode-Journey/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
