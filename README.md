@@ -90,6 +90,7 @@ Leetcode-Journey/
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0020-valid-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Array
@@ -150,4 +151,12 @@ Leetcode-Journey/
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0371-sum-of-two-integers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
