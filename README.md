@@ -105,6 +105,7 @@ Leetcode-Journey/
 | [0035-search-insert-position](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0169-majority-element) |
@@ -137,6 +138,7 @@ Leetcode-Journey/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
