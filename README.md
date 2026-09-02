@@ -175,4 +175,8 @@ Leetcode-Journey/
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
