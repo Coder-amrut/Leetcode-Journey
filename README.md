@@ -84,6 +84,7 @@ Leetcode-Journey/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
@@ -108,6 +109,7 @@ Leetcode-Journey/
 | [0088-merge-sorted-array](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0217-contains-duplicate) |
@@ -179,4 +181,8 @@ Leetcode-Journey/
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
