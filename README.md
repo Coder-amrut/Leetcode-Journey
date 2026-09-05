@@ -115,6 +115,7 @@ Leetcode-Journey/
 | [0169-majority-element](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0228-summary-ranges) |
 | [0349-intersection-of-two-arrays](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
