@@ -89,6 +89,7 @@ Leetcode-Journey/
 | [0217-contains-duplicate](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
@@ -116,6 +117,7 @@ Leetcode-Journey/
 | [0217-contains-duplicate](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
@@ -131,11 +133,13 @@ Leetcode-Journey/
 | ------- |
 | [0035-search-insert-position](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0371-sum-of-two-integers) |
 ## Sorting
 |  |
@@ -144,6 +148,7 @@ Leetcode-Journey/
 | [0169-majority-element](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
@@ -167,6 +172,7 @@ Leetcode-Journey/
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0371-sum-of-two-integers) |
 ## Stack
 |  |
