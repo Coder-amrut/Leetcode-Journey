@@ -119,6 +119,7 @@ Leetcode-Journey/
 | [0228-summary-ranges](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [1480-running-sum-of-1d-array](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
@@ -194,4 +195,8 @@ Leetcode-Journey/
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
