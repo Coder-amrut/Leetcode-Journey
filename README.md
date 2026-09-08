@@ -139,6 +139,7 @@ Leetcode-Journey/
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0371-sum-of-two-integers) |
