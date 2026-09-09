@@ -96,6 +96,7 @@ Leetcode-Journey/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
