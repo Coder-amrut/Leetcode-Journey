@@ -123,6 +123,7 @@ Leetcode-Journey/
 | [0228-summary-ranges](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1480-running-sum-of-1d-array](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
@@ -193,6 +194,7 @@ Leetcode-Journey/
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
 ## Linked List
 |  |
 | ------- |
