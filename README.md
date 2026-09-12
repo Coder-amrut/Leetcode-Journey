@@ -101,6 +101,7 @@ Leetcode-Journey/
 | [0058-length-of-last-word](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0242-valid-anagram) |
+| [1768-merge-strings-alternately](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Array
@@ -134,6 +135,7 @@ Leetcode-Journey/
 | [0088-merge-sorted-array](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [1768-merge-strings-alternately](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
