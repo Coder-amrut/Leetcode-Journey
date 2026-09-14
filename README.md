@@ -125,6 +125,7 @@ Leetcode-Journey/
 | [0268-missing-number](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
