@@ -124,6 +124,7 @@ Leetcode-Journey/
 | [0228-summary-ranges](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0605-can-place-flowers](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
@@ -210,4 +211,8 @@ Leetcode-Journey/
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
