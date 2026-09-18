@@ -84,6 +84,7 @@ Leetcode-Journey/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0169-majority-element) |
@@ -96,6 +97,7 @@ Leetcode-Journey/
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0058-length-of-last-word) |
@@ -197,6 +199,7 @@ Leetcode-Journey/
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
 ## Linked List
