@@ -125,6 +125,7 @@ Leetcode-Journey/
 | [0219-contains-duplicate-ii](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
@@ -138,6 +139,7 @@ Leetcode-Journey/
 | [0027-remove-element](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
