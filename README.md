@@ -88,6 +88,7 @@ Leetcode-Journey/
 | [0049-group-anagrams](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0242-valid-anagram) |
@@ -139,6 +140,7 @@ Leetcode-Journey/
 | [0027-remove-element](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1768-merge-strings-alternately) |
@@ -154,6 +156,7 @@ Leetcode-Journey/
 | ------- |
 | [0007-reverse-integer](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0371-sum-of-two-integers) |
 ## Sorting
@@ -220,4 +223,8 @@ Leetcode-Journey/
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0605-can-place-flowers) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
