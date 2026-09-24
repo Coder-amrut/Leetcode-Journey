@@ -94,6 +94,7 @@ Leetcode-Journey/
 | [0242-valid-anagram](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [1207-unique-number-of-occurrences](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -130,6 +131,7 @@ Leetcode-Journey/
 | [0349-intersection-of-two-arrays](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
+| [1207-unique-number-of-occurrences](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
