@@ -117,6 +117,7 @@ Leetcode-Journey/
 | [0015-3sum](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0066-plus-one) |
@@ -144,6 +145,7 @@ Leetcode-Journey/
 | [0015-3sum](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0202-happy-number) |
