@@ -139,6 +139,7 @@ Leetcode-Journey/
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,6 +168,7 @@ Leetcode-Journey/
 | [0202-happy-number](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0371-sum-of-two-integers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Sorting
 |  |
 | ------- |
