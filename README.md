@@ -134,6 +134,7 @@ Leetcode-Journey/
 | [0283-move-zeroes](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1207-unique-number-of-occurrences](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -168,6 +169,7 @@ Leetcode-Journey/
 | [0202-happy-number](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0371-sum-of-two-integers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Sorting
 |  |
@@ -180,6 +182,7 @@ Leetcode-Journey/
 | [0242-valid-anagram](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Coder-amrut/Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
